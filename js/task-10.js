@@ -6,5 +6,5 @@ function getRandomHexColor() {
 
 function createBoxes(amount) {
 
-  for (let )
+  
 }

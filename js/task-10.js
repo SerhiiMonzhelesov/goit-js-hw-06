@@ -4,7 +4,10 @@ function getRandomHexColor() {
     .padStart(6, 0)}`;
 }
 
-function createBoxes(amount) {
+// function createBoxes(amount) {
 
+//   for (let i = 0; i <= amount; )
   
-}
+// }
+
+
